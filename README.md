@@ -26,4 +26,5 @@ Set up your fleet, take turns bombing coordinates, and try not to sink your own 
 
 - Works on Windows, macOS, and Linux terminals
 
-
+### Update
+- Add AI opponent.
